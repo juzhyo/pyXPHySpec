@@ -1,7 +1,7 @@
 <div align="center">
 
 # pyXPHySpec
-Python wrapper for Photon etc.'s XPHySpec
+A Python wrapper for Photon etc.'s XPHySpec
 
 </div>
 
