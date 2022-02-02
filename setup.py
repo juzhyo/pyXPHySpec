@@ -18,7 +18,7 @@ with io.open(readme_filename, encoding="utf-8") as readme_file:
 
 setup(
     name="pyxphyspec",
-    version="0.2",
+    version="0.1",
     description="Python wrapper for XPhySpec",
     long_description=readme,
     long_description_content_type='text/markdown',
@@ -26,9 +26,6 @@ setup(
     author_email="juzhyo@gmail.com",
     url="https://github.com/juzhyo/pyXPHySpec/",
     install_requires=install_requires,
-    # python_requires=">=3.6",
-    # packages=packages,
-    # package_data={"googleapiclient": ["discovery_cache/documents/*.json"]},
     license="GPLv2",
     keywords="xphyspec",
     classifiers=[
