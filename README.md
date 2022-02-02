@@ -5,6 +5,7 @@
 pyXPhySpec is a Python wrapper for XPhySpec, an ActiveX control for integrating Photon etc. instruments in their process.
 
 ## Installation
+You can install pyXPHySpec via pip:
 
 ```
 pip install pyxphyspec
