@@ -18,11 +18,11 @@ with io.open(readme_filename, encoding="utf-8") as readme_file:
 
 setup(
     name="pyxphyspec",
-    version="0.1",
+    version="0.2",
     description="Python wrapper for XPhySpec",
     long_description=readme,
     long_description_content_type='text/markdown',
-    author="Justin Zhou Yong",
+    author="Justin Zhou",
     author_email="juzhyo@gmail.com",
     url="https://github.com/juzhyo/pyXPHySpec/",
     install_requires=install_requires,
