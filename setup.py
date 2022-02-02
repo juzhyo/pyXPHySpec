@@ -18,7 +18,7 @@ with io.open(readme_filename, encoding="utf-8") as readme_file:
 
 setup(
     name="pyxphyspec",
-    version="0.1",
+    version="0.3",
     description="Python wrapper for XPhySpec",
     long_description=readme,
     long_description_content_type='text/markdown',

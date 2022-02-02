@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyxphyspec
-Version: 0.2
+Version: 0.1
 Summary: Python wrapper for XPhySpec
 Home-page: https://github.com/juzhyo/pyXPHySpec/
 Author: Justin Zhou
