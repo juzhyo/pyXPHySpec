@@ -40,5 +40,5 @@ Note that `"M000XXXXXX"` is a placeholder string for the serial number of the Ph
 
 Ensure you have XPHySpec ActiveX control, which can be installed through installation of the PHySpec software.
 
-The following library will be installed when you install the library:
+The following library will be installed when you install this library:
 * [pywin32](https://github.com/mhammond/pywin32)
